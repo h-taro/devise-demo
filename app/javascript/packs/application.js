@@ -9,6 +9,8 @@ import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 import "bootstrap/dist/js/bootstrap"
 import "bootstrap/dist/css/bootstrap.css"
+import "admin-lte"
+import "admin-lte/dist/css/adminlte.css"
 
 Rails.start()
 Turbolinks.start()
